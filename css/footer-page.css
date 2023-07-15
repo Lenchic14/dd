@@ -1,0 +1,12 @@
+.footer-page {
+  background: #20242C;
+  padding: 10px 0;
+}
+
+.footer-page__text {
+  font-family: "TT Travels Light";
+  color: #ababab;
+  text-align: center;
+  font-weight: 00;
+  font-size: 18px;
+}
